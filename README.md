@@ -13,7 +13,7 @@ I am a student at Binus University B26, I dream of becoming a Game Programmer an
 
 
 ## Project Animation game
-(https://img.youtube.com/vi/weVB0iJuQr4/0.jpg)](https://www.youtube.com/watch?v=weVB0iJuQr4)
+[![poject animation](https://img.youtube.com/vi/weVB0iJuQr4/0.jpg)](https://www.youtube.com/watch?v=weVB0iJuQr4)
 
 
 
