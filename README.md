@@ -4,12 +4,17 @@
 ## I am Programmer and Designer
 I am a student at Binus University B26, I dream of becoming a Game Programmer and Designer, I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
 
+- 📫 How to reach me **rangga.yudhistira2205@gmail.com**
+- ⚡ Fun fact **There is only one sun**
+
 ## Skills
-💻 JS, C#, C, HTML, CSS
+- 💻 Languages Tools:
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
 
 ## Project
-<a href="https://youtu.be/weVB0iJuQr4?si=teS_K_z358Id7dPw" target="_blank"><img src="http://img.youtube.com/vi/z358Id7dPw/0.jpg" 
-alt="3D Animation" width="240" height="180" border="10" /></a>
+[![Pixel Art 2d Project](https://img.youtube.com/vi/weVB0iJuQr4)](https://www.youtube.com/watch?v=weVB0iJuQr4)
+
 
 
 
