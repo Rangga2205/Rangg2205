@@ -4,12 +4,11 @@
 ## I am Programmer and Designer
 I am a student at Binus University B26, I dream of becoming a Game Programmer and Designer, I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
 
-### skills
-💻 JS, C#, C, HTML, CSS 
+## Skills
+💻 JS, C#, C, HTML, CSS
 
-#### Project
-
-<a href="https://youtu.be/weVB0iJuQr4?si=teS_K_z358Id7dPw" target="_blank"><img src="http://img.youtube.com/vi/teS_K_z358Id7dPw/0.jpg" 
+## Project
+<a href="https://youtu.be/weVB0iJuQr4?si=teS_K_z358Id7dPw" target="_blank"><img src="http://img.youtube.com/vi/z358Id7dPw/0.jpg" 
 alt="3D Animation" width="240" height="180" border="10" /></a>
 
 
