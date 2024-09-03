@@ -1,10 +1,16 @@
-### Hi there 👋, my name is Rangga Yudhistira Putranto
-#### I am Programmer and Designer
 ![I am Programmer and Designer](https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA)
 
+# my name is Rangga Yudhistira Putranto
+## I am Programmer and Designer
 I am a student at Binus University B26, I dream of becoming a Game Programmer and Designer, I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
 
-Skills: JS / C# / C / HTML / CSS /
+### skills
+💻 JS, C#, C, HTML, CSS 
+
+#### Project
+
+<a href="https://youtu.be/weVB0iJuQr4?si=teS_K_z358Id7dPw" target="_blank"><img src="http://img.youtube.com/vi/teS_K_z358Id7dPw/0.jpg" 
+alt="3D Animation" width="240" height="180" border="10" /></a>
 
 
 
