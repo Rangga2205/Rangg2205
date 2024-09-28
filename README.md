@@ -12,9 +12,9 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 |[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong)|[Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
 
 ## My Skill
--Language🕵🏼‍♀️     : C#, html, C, Css
--Game Engine✍🏼  : Unity,Blender
-
+- Language🕵🏼‍♀️     : C#, html, C, Css
+- Game Engine✍🏼  : Unity,Blender
+  
 ## Contact
 - 📫 How to reach me **rangga.yudhistira2205@gmail.com**
 - ⚡ Fun fact **There is only one sun**
