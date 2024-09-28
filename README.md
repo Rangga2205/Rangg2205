@@ -1,7 +1,27 @@
-![I am Programmer and Designer](https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA)
+![I am Game Programmer](https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA)
+
+# My Projects
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="width: 48%; margin-bottom: 20px;">
+  <h3>Star Emipre Pong</h3>
+  <img src="IMAGE_URL_HERE" alt="Star Empire Pong" style="width: 100%;">
+  <p><em>GIF is low quality because of compression</em></p>
+  <p>This game is my project as game programmer in Binus University. In this project I, drag and drop for answering questions, history UI and others.</p>
+  <p><strong>Project Link:</strong> <a href="PROJECT_LINK_HERE">here</a></p>
+</div>
+
+<div style="width: 48%; margin-bottom: 20px;">
+  <h3>Lung Defender: The Tuberculosis Battle</h3>
+  <img src="IMAGE_URL_HERE" alt="Lung Defender" style="width: 100%;">
+  <p>A hack n' slash tower defense game themed around the human immune system. For this project, I mainly worked on the tower defense part and save system.</p>
+  <p>I made use of OOP concepts to develop the characters in tower defense part where each of the character possess their own special skill and Unity's playprefs for the save and load system.</p>
+  <p><strong>2nd Place in AC National Competition</strong></p>
+  <p><strong>Project Link:</strong> <a href="PROJECT_LINK_HERE">here</a></p>
+</div>
 
 # my name is Rangga Yudhistira Putranto
-## I am Programmer and Designer
 I am a student at Binus University B26, I dream of becoming a Game Programmer and Designer, I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
 
 - 📫 How to reach me **rangga.yudhistira2205@gmail.com**
