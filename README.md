@@ -1,24 +1,23 @@
 ![I m Game Programmer](https://www.facebook.com/photo/?fbid=1049360800027980&set=a.1049360863361307)
 
 # my name is Rangga Yudhistira Putranto
-I am a student at Binus University B26, I dream of becoming a Game Programmer , I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
+I am a student B26 at Binus University in the faculty of Computer Science majoring in Game Application and Technology. I have an interest in game development, especially in game programming, where I am very interested in implementing various unique mechanisms into my games.
 
 ## My Projects
 
 | Star Empire Pong | God Rock |
 |:-------------:|:--------------------------------------:|
 |<video src="https://github.com/user-attachments/assets/6f78f5f8-eb24-492b-beef-1781f56e94ea">|<video src="https://github.com/user-attachments/assets/8ebab38c-1051-4215-a25e-ea2d73be55a5">|
-| This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. | A hack n’ slash tower-defense game themed around the human immune system. I mainly worked on the tower defense part and save system. |
+| This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. | A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles. |
 |[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong)|[Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
 
+##My Skill
+-Language🕵🏼‍♀️     : C#, html, C, Css
+-Game Engine✍🏼  : Unity,Blender
+
+## Contact
 - 📫 How to reach me **rangga.yudhistira2205@gmail.com**
 - ⚡ Fun fact **There is only one sun**
-
-## Skills
-- 💻 Languages Tools:
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rangga2205)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rangga-yudhistira-a19683253/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rangga.yudhistira.33886/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/r_yudpis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ranggayudhistira4788)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
