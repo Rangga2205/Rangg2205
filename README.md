@@ -1,40 +1,15 @@
-![I am Game Programmer](https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA)
-
-# My Projects
-
-Here are some of the game projects I've worked on, along with descriptions and video demos.
-
-| Project | Description | Video |
-|---------|-------------|-------|
-| **Baking Bee VR** | This game is my intern project as a VR game programmer at Binus University. I'm responsible for core mechanics like inventory and drag-and-drop for answering questions. | [![Baking Bee VR](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
-| **Lung Defender: The Tuberculosis Battle** | A hack 'n' slash tower defense game themed around the human immune system. I mainly worked on the tower defense part and save system. 2nd Place in AC National Competition. | [![Lung Defender](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
-| **Mochi Prince** | A 2D action platformer game where the player is a prince from the Mochi kingdom. I handled all programming for the game. | [![Mochi Prince](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
-| **Penasaran (WIP)** | Penasaran is a horror game combining multiple traditional Indonesian games. I am responsible for the game UI, using AR as an API, and creating the lore for the game. | [![Penasaran](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
-
----
-
-### Details About the Projects
-
-1. **Baking Bee VR**: 
-   - This project is part of my internship at Binus University. The game focuses on VR interactions and educational gameplay.
-   - [Watch the video here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
-
-2. **Lung Defender: The Tuberculosis Battle**: 
-   - A game built to raise awareness about tuberculosis through a fun, engaging tower defense mechanic.
-   - [Watch the demo here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
-
-3. **Mochi Prince**: 
-   - A classic action platformer where the player controls a prince in a snowy kingdom.
-   - [Watch the gameplay here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
-
-4. **Penasaran (WIP)**:
-   - This horror game integrates traditional Indonesian games into the gameplay for a unique experience.
-   - [Preview the work-in-progress here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
-
-
+![I m Game Programmer](https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA)
 
 # my name is Rangga Yudhistira Putranto
-I am a student at Binus University B26, I dream of becoming a Game Programmer and Designer, I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
+I am a student at Binus University B26, I dream of becoming a Game Programmer , I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
+
+## My Projects
+
+| Star Empire Pong | God Rock |
+|:-------------:|:--------------------------------------:|
+| (https://youtu.be/qW9vwlj-Pao) | (https://youtu.be/0ZJpfFQ3HeM) |
+| This game is my Second project as a game programmer in Binus University. I made a game using the top down classic pong method. | A hack n’ slash tower-defense game themed around the human immune system. I mainly worked on the tower defense part and save system. |
+| [Project Link](link_here)  | [Project Link](link_here) |
 
 - 📫 How to reach me **rangga.yudhistira2205@gmail.com**
 - ⚡ Fun fact **There is only one sun**
