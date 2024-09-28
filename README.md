@@ -2,41 +2,35 @@
 
 # My Projects
 
-## Baking Bee VR
-![Baking Bee VR GIF](link-to-your-gif-or-image)  
-**GIF is low quality because of compression.**
+Here are some of the game projects I've worked on, along with descriptions and video demos.
 
-This game is my intern project as a VR game programmer in Binus University. In this project, I'm responsible for some of the game core mechanics such as interviewing, drag-and-drop for answering questions, history UI, and others.
-
-[Project Link](https://your-project-link)
-
----
-
-## Lung Defender: The Tuberculosis Battle
-![Lung Defender Image](link-to-your-image)  
-A hack n’ slash tower-defense game themed around the human immune system. For this project, I mainly worked on the tower defense part and save system.
-
-I made use of OOP concepts to develop the characters in tower defense apart where each of the character poses their own special skill and Unity’s playprefs for the save and load system.
-
-**2nd Place in AC National Competition**  
-[Watch Trailer](https://link-to-your-trailer)  
-[Project Link](https://your-project-link)
+| Project | Description | Video |
+|---------|-------------|-------|
+| **Baking Bee VR** | This game is my intern project as a VR game programmer at Binus University. I'm responsible for core mechanics like inventory and drag-and-drop for answering questions. | [![Baking Bee VR](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
+| **Lung Defender: The Tuberculosis Battle** | A hack 'n' slash tower defense game themed around the human immune system. I mainly worked on the tower defense part and save system. 2nd Place in AC National Competition. | [![Lung Defender](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
+| **Mochi Prince** | A 2D action platformer game where the player is a prince from the Mochi kingdom. I handled all programming for the game. | [![Mochi Prince](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
+| **Penasaran (WIP)** | Penasaran is a horror game combining multiple traditional Indonesian games. I am responsible for the game UI, using AR as an API, and creating the lore for the game. | [![Penasaran](https://via.placeholder.com/150)](https://www.youtube.com/watch?v=VIDEO_ID_HERE) |
 
 ---
 
-## Mochi Prince
-![Mochi Prince Image](link-to-your-image)  
-A 2D action platformer game where a player is Prince from Mochi Kingdom that has to save its kingdom from harsh winter. In this project, I handled all of the programming for the game.
+### Details About the Projects
 
-[Project Link](https://your-project-link)
+1. **Baking Bee VR**: 
+   - This project is part of my internship at Binus University. The game focuses on VR interactions and educational gameplay.
+   - [Watch the video here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
 
----
+2. **Lung Defender: The Tuberculosis Battle**: 
+   - A game built to raise awareness about tuberculosis through a fun, engaging tower defense mechanic.
+   - [Watch the demo here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
 
-## Penasaran (WIP)
-![Penasaran Image](link-to-your-image)  
-Penasaran is a horror-themed game where it combines multiple traditional Indonesian games such as benthik, traditional kendang, kotakapi, and bambu gila. In this project, I’m responsible for multiplayer gameplay and AI using 4P, and also taking care of the art for the game.
+3. **Mochi Prince**: 
+   - A classic action platformer where the player controls a prince in a snowy kingdom.
+   - [Watch the gameplay here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
 
-[Project Link](https://your-project-link)
+4. **Penasaran (WIP)**:
+   - This horror game integrates traditional Indonesian games into the gameplay for a unique experience.
+   - [Preview the work-in-progress here](https://www.youtube.com/watch?v=VIDEO_ID_HERE).
+
 
 
 # my name is Rangga Yudhistira Putranto
