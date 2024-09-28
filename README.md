@@ -2,24 +2,42 @@
 
 # My Projects
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+## Baking Bee VR
+![Baking Bee VR GIF](link-to-your-gif-or-image)  
+**GIF is low quality because of compression.**
 
-<div style="width: 48%; margin-bottom: 20px;">
-  <h3>Star Emipre Pong</h3>
-  <img src="IMAGE_URL_HERE" alt="Star Empire Pong" style="width: 100%;">
-  <p><em>GIF is low quality because of compression</em></p>
-  <p>This game is my project as game programmer in Binus University. In this project I, drag and drop for answering questions, history UI and others.</p>
-  <p><strong>Project Link:</strong> <a href="PROJECT_LINK_HERE">here</a></p>
-</div>
+This game is my intern project as a VR game programmer in Binus University. In this project, I'm responsible for some of the game core mechanics such as interviewing, drag-and-drop for answering questions, history UI, and others.
 
-<div style="width: 48%; margin-bottom: 20px;">
-  <h3>Lung Defender: The Tuberculosis Battle</h3>
-  <img src="IMAGE_URL_HERE" alt="Lung Defender" style="width: 100%;">
-  <p>A hack n' slash tower defense game themed around the human immune system. For this project, I mainly worked on the tower defense part and save system.</p>
-  <p>I made use of OOP concepts to develop the characters in tower defense part where each of the character possess their own special skill and Unity's playprefs for the save and load system.</p>
-  <p><strong>2nd Place in AC National Competition</strong></p>
-  <p><strong>Project Link:</strong> <a href="PROJECT_LINK_HERE">here</a></p>
-</div>
+[Project Link](https://your-project-link)
+
+---
+
+## Lung Defender: The Tuberculosis Battle
+![Lung Defender Image](link-to-your-image)  
+A hack n’ slash tower-defense game themed around the human immune system. For this project, I mainly worked on the tower defense part and save system.
+
+I made use of OOP concepts to develop the characters in tower defense apart where each of the character poses their own special skill and Unity’s playprefs for the save and load system.
+
+**2nd Place in AC National Competition**  
+[Watch Trailer](https://link-to-your-trailer)  
+[Project Link](https://your-project-link)
+
+---
+
+## Mochi Prince
+![Mochi Prince Image](link-to-your-image)  
+A 2D action platformer game where a player is Prince from Mochi Kingdom that has to save its kingdom from harsh winter. In this project, I handled all of the programming for the game.
+
+[Project Link](https://your-project-link)
+
+---
+
+## Penasaran (WIP)
+![Penasaran Image](link-to-your-image)  
+Penasaran is a horror-themed game where it combines multiple traditional Indonesian games such as benthik, traditional kendang, kotakapi, and bambu gila. In this project, I’m responsible for multiplayer gameplay and AI using 4P, and also taking care of the art for the game.
+
+[Project Link](https://your-project-link)
+
 
 # my name is Rangga Yudhistira Putranto
 I am a student at Binus University B26, I dream of becoming a Game Programmer and Designer, I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
