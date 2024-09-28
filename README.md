@@ -7,7 +7,7 @@ I am a student at Binus University B26, I dream of becoming a Game Programmer , 
 
 | Star Empire Pong | God Rock |
 |:-------------:|:--------------------------------------:|
-|<video src="https://github.com/user-attachments/assets/0abdfc5e-1ce2-4ff8-bc53-f114b964e7b6">|<video src="https://github.com/user-attachments/assets/0abdfc5e-1ce2-4ff8-bc53-f114b964e7b6">|
+|<video src="https://github.com/user-attachments/assets/6f78f5f8-eb24-492b-beef-1781f56e94ea">|<video src="https://github.com/user-attachments/assets/8ebab38c-1051-4215-a25e-ea2d73be55a5">|
 | This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. | A hack n’ slash tower-defense game themed around the human immune system. I mainly worked on the tower defense part and save system. |
 | [Project Link](link_here)  | [Project Link](link_here) |
 
