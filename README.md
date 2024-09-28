@@ -1,4 +1,4 @@
-![I m Game Programmer](https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA)
+![I m Game Programmer]([https://scontent.fcgk33-1.fna.fbcdn.net/v/t39.30808-6/458276377_1049360803361313_7656399634679140406_n.png?stp=dst-png_s960x960&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHp1fVexeJnjViQhNwjax7RvEBcxHRgyzO8QFzEdGDLM62oOCxRq_kIz53K4KvLnybwi_JxJ6n_3zqD8AwSduZ4&_nc_ohc=dY8Sky1pwegQ7kNvgGTAUgO&_nc_ht=scontent.fcgk33-1.fna&_nc_gid=Atq6YbmPDP_5Y1SJFC9o__8&oh=00_AYDcJF3ubW5IDp8ncTIVCYxQ3hoXIkopDuUTy_topWFYLg&oe=66DC6DDA](https://www.facebook.com/photo/?fbid=1049360800027980&set=a.1049360863361307))
 
 # my name is Rangga Yudhistira Putranto
 I am a student at Binus University B26, I dream of becoming a Game Programmer , I also enjoy learning various programming languages ​​such as Java, HTML, CSS, Kotlin, C.
