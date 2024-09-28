@@ -1,4 +1,4 @@
-![I m Game Programmer](https://www.facebook.com/photo/?fbid=1049360800027980&set=a.1049360863361307)
+![](https://github.com/user-attachments/assets/806c7bd6-478a-4882-b3cb-d09466ada8f6))
 
 # my name is Rangga Yudhistira Putranto
 I am a student B26 at Binus University in the faculty of Computer Science majoring in Game Application and Technology. I have an interest in game development, especially in game programming, where I am very interested in implementing various unique mechanisms into my games.
