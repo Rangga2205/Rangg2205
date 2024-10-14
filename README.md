@@ -11,7 +11,7 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 | This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. | A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles. |
 |[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong)|[Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
 | Topdown Warkop | Shooting Space |
-||<img width="256" alt="Screenshot 2024-10-14 102420" src="https://github.com/user-attachments/assets/a74bc6a8-7f23-430c-bb30-658b55551a0a">|
+||<img width="300" alt="Screenshot 2024-10-14 102420" src="https://github.com/user-attachments/assets/a74bc6a8-7f23-430c-bb30-658b55551a0a">|
 | Manage a warkop by serving customers, preparing drinks and foods, maintaining inventory, and expanding the business. | A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles. |
 |[Project Link](link) [Itch.io Link](link)|[Project Link](link) [Itch.io Link](link) |
 
