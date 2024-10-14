@@ -13,7 +13,7 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 | Topdown Warkop | Shooting Space |
 ||![96llla](https://github.com/user-attachments/assets/f3c35997-f1b9-4c63-9fec-62a399a3e3dd)|
 | This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. | A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles. |
-|[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong)|[Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
+|[Project Link](link) [Itch.io Link](link)|[Project Link](link) [Itch.io Link](link) |
 
 ## My Skill
 - Language🕵🏼‍♀️     : C#, html, C, Css
