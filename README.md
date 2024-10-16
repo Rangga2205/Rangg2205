@@ -12,7 +12,7 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 | The Forgotten Shrines | Galactic Edge: Starfighter |
 |<img width="351" alt="Screenshot 2024-10-16 212009" src="https://github.com/user-attachments/assets/952b9b8a-479e-40cd-8440-d28ff639421b">|<img width="300" alt="Screenshot 2024-10-14 102420" src="https://github.com/user-attachments/assets/a74bc6a8-7f23-430c-bb30-658b55551a0a">|
 | In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land | Enter a world of intergalactic combat in "Galactic Edge: Starfighter," a fast-paced action game where players take control of advanced fighter aircraft on a mission to protect human colonies on the edge of space. |
-|[Project Link](link) [Itch.io Link](link)|[Project Link](link) [Itch.io Link](link) |
+|[Project Link](link) |[Project Link](link) |
 
 ## My Skill
 - Language🕵🏼‍♀️     : C#
