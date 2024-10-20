@@ -4,7 +4,7 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 ## My Skill
 - 🕵🏼‍♀️ C# Unity Game Development
 - 🖥️ HTML, CSS Web Development
--  Game Engine✍🏼 Unity
+- ✍🏼 Game Engine Unity
 
 ## My Projects
 
