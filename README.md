@@ -10,8 +10,8 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 |In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land.|A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles.|
 | [Project Link](link) | [Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) |
 | The Shrines | Star Empire |
-|![Movie_004 (1)](https://github.com/user-attachments/assets/fa5fb585-26df-4b87-92f4-1a5853c4c58a)|![Pong (2)](https://github.com/user-attachments/assets/ef02f34c-c276-4cf7-87c3-e1bbb691d0e8)|
-|In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land|This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet.|
+|![Movie_002 (2)](https://github.com/user-attachments/assets/65aa03d1-5c6f-4385-bab0-072148244848)|![Pong (2)](https://github.com/user-attachments/assets/ef02f34c-c276-4cf7-87c3-e1bbb691d0e8)|
+|a fast-paced action game where players take control of advanced fighter aircraft on a mission to protect human|This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet.|
 | [Project Link](link) | [Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) | 
 
 ## My Skill
