@@ -2,20 +2,19 @@
 # my name is Rangga Yudhistira Putranto
 I am a student B26 at Binus University in the faculty of Computer Science majoring in Game Application and Technology. I have an interest in game development, especially in game programming, where I am very interested in implementing various unique mechanisms into my games.
 
-# my name is Rangga Yudhistira Putranto
-I am a student B26 at Binus University in the faculty of Computer Science majoring in Game Application and Technology. I have an interest in game development, especially in game programming, where I am very interested in implementing various unique mechanisms into my games.
-
 ## My Projects
 
-| Star Empire Pong | God Rock |
-|:---------------:|:---------------:|
-|![96ll3m](https://github.com/user-attachments/assets/eb4f9ebc-57ac-4270-8474-6f4ba8d28d37)|![96llla](https://github.com/user-attachments/assets/f3c35997-f1b9-4c63-9fec-62a399a3e3dd)|
-| This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. | A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles. |
-|[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong)|[Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
-| The Forgotten Shrines | GalacticEdge:Star |
-|![Movie_004 (1)](https://github.com/user-attachments/assets/fa5fb585-26df-4b87-92f4-1a5853c4c58a)||
-| In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land | Enter a world of intergalactic combat in "Galactic Edge: Starfighter," a fast-paced action game where players take control of advanced fighter aircraft on a mission to protect human colonies on the edge of space. |
-|[Project Link](link) |[Project Link](link) |
+| Star Empire Pong    | God Rock                                                |
+|:-------------------:|:------------------------------------------------------:|
+| ![Star Empire Pong](https://via.placeholder.com/150) | ![God Rock](https://via.placeholder.com/150) |
+| This game is my second project as a game programmer in Binus University. The game uses a top-down classic pong method with a design space to protect our planet. | A side-scrolling game to reach the gate of the gods and become a real stone god by passing through existing obstacles. |
+| [Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong) | [Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
+| The Forgotten Shrines  | Galactic Edge: Starfighter                            |
+|:----------------------:|:-----------------------------------------------------:|
+| ![The Forgotten Shrines](https://via.placeholder.com/150) | ![Galactic Edge](https://via.placeholder.com/150) |
+| In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land. | Enter a world of intergalactic combat in "Galactic Edge: Starfighter," a fast-paced action game where players take control of advanced fighter aircraft on a mission to protect human colonies on the edge of space. |
+| [Project Link](link) | [Project Link](link) |
+
 
 ## My Skill
 - Language🕵🏼‍♀️     : C#
