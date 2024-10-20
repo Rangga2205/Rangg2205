@@ -12,7 +12,7 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 | The Forgotten Shrines | Star Empire Pong |
 |![Movie_004 (1)](https://github.com/user-attachments/assets/fa5fb585-26df-4b87-92f4-1a5853c4c58a)|![Pong (2)](https://github.com/user-attachments/assets/ef02f34c-c276-4cf7-87c3-e1bbb691d0e8)|
 | In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land | This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet. |
-|[Project Link](link) |[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong | 
+|[Project Link](link) |[Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong) | 
 
 ## My Skill
 - Language🕵🏼‍♀️     : C#
