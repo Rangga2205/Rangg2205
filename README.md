@@ -1,5 +1,4 @@
-
-![Blue   White Geometric Technology linkedln  Benner (2)](https://github.com/user-attachments/assets/dfef9095-baa8-4195-a556-0d77481a93f9)
+![Blue   White Geometric Technology linkedln  Benner (3)](https://github.com/user-attachments/assets/7201f913-76ce-4621-b129-61fcd65cb545)
 I am a student B26 at Binus University in the faculty of Computer Science majoring in Game Application and Technology. I have an interest in game development, especially in game programming, where I am very interested in implementing various unique mechanisms into my games.
 
 ## My Skill
