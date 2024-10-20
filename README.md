@@ -9,10 +9,10 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 |![Movie_004 (3)](https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998)|![God Rock](https://github.com/user-attachments/assets/f88d9b82-f38a-48f8-bbac-da68856dfc09)|
 |In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land.|A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles.|
 | [Project Link](link) | [Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) |
-| The Shrines | Star Empire |
+| GalacticEdge:Star | Star Empire |
 |![Movie_002 (2)](https://github.com/user-attachments/assets/65aa03d1-5c6f-4385-bab0-072148244848)|![Pong (2)](https://github.com/user-attachments/assets/ef02f34c-c276-4cf7-87c3-e1bbb691d0e8)|
 |a fast-paced action game where players take control of advanced fighter aircraft on a mission to protect human|This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet.|
-| [Project Link](link) | [Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) | 
+| [Project Link](https://github.com/Rangga2205/GalaticEdge) | [Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) | 
 
 ## My Skill
 - Language🕵🏼‍♀️     : C#
