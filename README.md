@@ -2,6 +2,11 @@
 ![Blue   White Geometric Technology linkedln  Benner (2)](https://github.com/user-attachments/assets/dfef9095-baa8-4195-a556-0d77481a93f9)
 I am a student B26 at Binus University in the faculty of Computer Science majoring in Game Application and Technology. I have an interest in game development, especially in game programming, where I am very interested in implementing various unique mechanisms into my games.
 
+## My Skill
+- 🕵🏼‍♀️ C# Unity Game Development
+- 🖥️ HTML, CSS Web Development
+- Game Engine✍🏼 Unity
+
 ## My Projects
 
 | The Shrines | God Rock |
@@ -14,10 +19,6 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 |A fast-paced action game where players take control of advanced fighter aircraft on a mission to protect human|This game is my Second project as a game programmer in Binus University. Game using the top down classic pong method with disgn space to protect our planet.|
 | [Project Link](https://github.com/Rangga2205/GalaticEdge) | [Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) | 
 
-## My Skill
-- Language🕵🏼‍♀️     : C#
-- Game Engine✍🏼  : Unity
-  
 ## Contact
 - 📫 How to reach me **rangga.yudhistira2205@gmail.com**
 - ⚡ Fun fact **There is only one sun**
@@ -30,19 +31,5 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 
 
 
-
-## My Skill
-- Language🕵🏼‍♀️     : C#
-- Game Engine✍🏼  : Unity
-  
-## Contact
-- 📫 How to reach me **rangga.yudhistira2205@gmail.com**
-- ⚡ Fun fact **There is only one sun**
-  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rangga2205)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rangga-yudhistira-a19683253/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rangga.yudhistira.33886/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/r_yudpis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/ranggayudhistira4788)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga2205)](https://github.com/anuraghazra/github-readme-stats)
 
 
