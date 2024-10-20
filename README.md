@@ -4,41 +4,18 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 
 ## My Projects
 
-<div style="display: flex; justify-content: space-around; text-align: center;">
+| Star Empire Pong  | God Rock            |
+|:-----------------:|:-------------------:|
+| ![96ll3m](https://github.com/user-attachments/assets/eb4f9ebc-57ac-4270-8474-6f4ba8d28d37) | ![96llla](https://github.com/user-attachments/assets/f3c35997-f1b9-4c63-9fec-62a399a3e3dd) |
+| This game is my second project as a game programmer in Binus University. A top-down classic pong game where you defend planets in space. | A side-scrolling game where players reach the gate of the gods, facing obstacles to become a stone god. |
+| [Project Link](https://github.com/Rangga2205/ProjekPongStarBattleShip) [Itch.io Link](https://ranggayupis.itch.io/empire-pong) | [Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
 
-  <div style="width: 45%; background-color: #f9f9f9; padding: 15px; margin: 10px;">
-    <h3>Star Empire Pong</h3>
-    <img src="https://github.com/user-attachments/assets/eb4f9ebc-57ac-4270-8474-6f4ba8d28d37" width="200">
-    <p>This game is my second project at Binus University. A top-down classic pong game with a space theme to protect the planet.</p>
-    <a href="https://github.com/Rangga2205/ProjekPongStarBattleShip">Project Link</a> | <a href="https://ranggayupis.itch.io/empire-pong">Itch.io Link</a>
-  </div>
+| The Forgotten Shrines  | Galactic Edge: Starfighter  |
+|:----------------------:|:---------------------------:|
+| ![Movie_004 (1)](https://github.com/user-attachments/assets/fa5fb585-26df-4b87-92f4-1a5853c4c58a) | <img width="300" alt="Screenshot 2024-10-14 102420" src="https://github.com/user-attachments/assets/a74bc6a8-7f23-430c-bb30-658b55551a0a"> |
+| In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land. | A fast-paced action game where players control advanced fighter aircraft to protect human colonies in space. |
+| [Project Link](link) | [Project Link](link) |
 
-  <div style="width: 45%; background-color: #f9f9f9; padding: 15px; margin: 10px;">
-    <h3>God Rock</h3>
-    <img src="https://github.com/user-attachments/assets/f3c35997-f1b9-4c63-9fec-62a399a3e3dd" width="200">
-    <p>A side-scroll game where you reach the gate of the gods to become a real stone god by passing through obstacles.</p>
-    <a href="https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock">Project Link</a> | <a href="https://ranggayupis.itch.io/god-rock-1">Itch.io Link</a>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-around; text-align: center;">
-
-  <div style="width: 45%; background-color: #f9f9f9; padding: 15px; margin: 10px;">
-    <h3>The Forgotten Shrines</h3>
-    <img src="https://github.com/user-attachments/assets/fa5fb585-26df-4b87-92f4-1a5853c4c58a" width="200">
-    <p>In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land.</p>
-    <a href="link">Project Link</a>
-  </div>
-
-  <div style="width: 45%; background-color: #f9f9f9; padding: 15px; margin: 10px;">
-    <h3>Galactic Edge: Starfighter</h3>
-    <img src="https://github.com/user-attachments/assets/a74bc6a8-7f23-430c-bb30-658b55551a0a" width="200">
-    <p>Enter a world of intergalactic combat, where you control fighter aircraft to protect human colonies on the edge of space.</p>
-    <a href="link">Project Link</a>
-  </div>
-
-</div>
 
 
 
