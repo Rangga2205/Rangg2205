@@ -6,7 +6,7 @@ I am a student B26 at Binus University in the faculty of Computer Science majori
 
 | The Forgotten Shrines | God Rock |
 |:---------------:|:---------------:|
-|![Movie_004 (3)](https://github.com/user-attachments/assets/12fc69cb-94d2-4029-96ed-7166b431c998)|![God Rock](https://github.com/user-attachments/assets/f88d9b82-f38a-48f8-bbac-da68856dfc09)|
+|![God Rock](https://github.com/user-attachments/assets/f88d9b82-f38a-48f8-bbac-da68856dfc09)|![God Rock](https://github.com/user-attachments/assets/f88d9b82-f38a-48f8-bbac-da68856dfc09)|
 | In a once-thriving kingdom, nature and magic were in perfect balance, maintained by the Ancient Shrines scattered across the land  | A side scroll game to reach the gate of the gods to become a real stone god passing through the existing obstacles. |
 |[Project Link](link)|[Project Link](https://github.com/Rangga2205/ProjeckSideScroll_2D_God_Rock) [Itch.io Link](https://ranggayupis.itch.io/god-rock-1) |
 | The Forgotten Shrines | Star Empire Pong |
